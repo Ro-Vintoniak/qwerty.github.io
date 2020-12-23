@@ -1,0 +1,320 @@
+@media(min-width: 992px){
+  
+
+.case{
+  position: relative;
+     border: 1px solid white;
+     max-width: 800;
+     height: 700px;
+     
+     display: flex;
+     margin: 0 auto;
+    
+     }
+.woot1{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:red;
+     float: right;
+     
+     }
+.words{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  bottom: 20px;
+     }
+
+.tor{
+  padding: 25px;
+      }
+
+ .root{
+  position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+    
+     
+      }
+ .root2{
+  position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+     display: block;
+    
+   
+   
+    
+    
+      }
+ .woot2{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:green;
+     float: right;
+     
+     
+     }
+.words2{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:white;
+  bottom: 20px;
+
+   }
+  .root3{
+  position: relative;
+     border: 4px solid black;
+     max-width: 32%;
+     height: 275px;
+     background-color:gray;
+     margin-left: 5px;
+
+     
+    
+
+     }
+ .woot3{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:yellow;
+     float: right;
+     
+      }
+.words3{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:black;
+  bottom: 20px;
+
+   }
+  
+ h1{
+  text-align: center;
+     }
+ }  
+ @media(min-width: 768px) and (max-width: 992px){
+  .case{
+  position: relative;
+     border: 1px solid white;
+     max-width: 1000px;
+     height: 900px;
+     
+     margin: 0px auto;
+
+    
+
+      }
+      .root{
+  position: relative;
+     border: 4px solid black;
+     max-width: 42%;
+     height: 200px;
+     background-color:gray;
+     top: 20px;
+     padding: 15px;
+
+      }
+
+.woot1{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:red;
+     float: right;
+     position: relative;
+     left: 15px;
+     bottom: 18px;
+     
+      }
+
+.words{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  bottom: 20px;
+
+  
+       }
+
+ 
+
+ .root2{
+  position: relative;
+     border: 4px solid black;
+     max-width: 42%;
+     height: 200px;
+     background-color:gray;
+    float: right;
+    bottom: 216px;
+    padding: 15px;
+     
+      }
+
+
+ .woot2{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:green;
+     float: right;
+     position: relative;
+     bottom: 18px;
+     left: 15px;
+     
+     }
+.words2{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:white;
+  bottom: 20px;
+
+   }
+  .root3{
+  position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 150px;
+     background-color:gray;
+    padding: 15px;
+    float: right;
+    bottom: 170px;
+     }
+
+ .woot3{
+  position: relative;
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:yellow;
+     float: right;
+     bottom: 18px;
+     left: 15px;
+     }
+
+.words3{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:black;
+  bottom: 20px;
+    }
+  
+ h1{
+  text-align: center;
+
+     }
+ }  
+ @media(max-width: 768px){
+
+  .case{
+  position: relative;
+     border: 1px solid white;
+     max-width: 800;
+     height: 1000px;
+    
+    
+     }
+
+.woot1{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#F08080;
+     float: right;
+     
+     }
+.words{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  bottom: 20px;
+     }
+
+.tor{
+  padding: 25px;
+     }
+
+ .root{
+  position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+     top: 20px;
+     
+     
+     }
+ .root2{
+
+  position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+    left:0px;
+    margin-top: 100px;
+    
+    
+      }
+
+ .woot2{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#A52A2A;
+     float: right;
+      }
+
+.words2{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:white;
+  bottom: 20px;
+
+  }
+  .root3{
+  position: relative;
+     border: 4px solid black;
+     max-width: 100%;
+     height: 202px;
+     background-color:gray;
+     float: right;
+      margin-top: 100px;
+      }
+
+ .woot3{
+  border: 2px solid black;
+    width: 150px;
+     height: 40px;
+     background-color:#FFDEAD;
+     float: right;
+     
+      }
+
+.words3{
+  position: relative;
+  font-size: 150%; 
+  text-align: center;
+  color:black;
+  bottom: 20px;
+
+   }
+  
+ h1{
+  text-align: center;
+     }
+}
